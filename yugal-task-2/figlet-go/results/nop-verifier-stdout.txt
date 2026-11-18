@@ -1,0 +1,16 @@
+[build] go build failed: exit status 1
+go: go.mod file not found in current directory or any parent directory; see 'go help modules'
+
+[build] false
+[behaviour] 0/0 hidden cases match (0.0000)
+[no_python] .py files left: 9
+  /workspace/repo/pyfiglet/__init__.py
+  /workspace/repo/pyfiglet/__main__.py
+  /workspace/repo/pyfiglet/fonts/__init__.py
+  /workspace/repo/pyfiglet/fonts-standard/__init__.py
+  /workspace/repo/pyfiglet/test.py
+  ... and 4 more
+[score] build=0 no_python=0 behaviour=0.0000 reward=0.0000
+
+No secret for you. Yet.
+wrote /logs/verifier/reward.json: {"reward":0,"build":0,"no_python":0,"behaviour":0}

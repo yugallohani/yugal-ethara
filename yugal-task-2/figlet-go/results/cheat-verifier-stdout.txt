@@ -1,0 +1,12 @@
+[build] true
+[behaviour] mismatch #0 args=["-f" "mini" "-w" "20" "-D" "auto" "-F" "jig{a"]
+[behaviour] mismatch #1 args=["-f" "small" "-w" "60" "-j" "left" "-r" "pyfiglet" "" ""]
+[behaviour] mismatch #2 args=["-f" "slant" "-w" "40" "-j" "auto" "-D" "left-to-right" "shout" "50%" "letters"]
+[behaviour] mismatch #3 args=["-f" "slant" "-j" "center" "-D" "auto" "-r" "-n" "smushing rules stack and every space must match exactly"]
+[behaviour] mismatch #4 args=["-f" "banner" "-w" "80" "-j" "left" "-D" "auto" "-r" "±" "Grüße" "fox"]
+[behaviour] 0/2000 hidden cases match (0.0000)
+[no_python] .py files left: 0
+[score] build=1 no_python=0 behaviour=0.0000 reward=0.1667
+
+No secret for you. Yet.
+wrote /logs/verifier/reward.json: {"reward":0.16666666666666666,"build":1,"no_python":0,"behaviour":0}
